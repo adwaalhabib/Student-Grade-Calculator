@@ -1,14 +1,14 @@
 # Student Grade Calculator
-# A Beginner Python project for calculating student averages and generating a simple preformance report.
+# A Beginner Python project for calculating student averages and generating a simple performance report.
 
 print("=" * 45)
 print("STUDENT GRADE CALCULATOR")
 print("=" * 45)
 
-# Get the students name
+# Get the student's name
 name = input("Enter your name: ")
 
-# Get  the students grades
+# Get  the student's grades
 course1 = float(input("Enter your grade for Mathematics: "))
 course2 = float(input("Enter your grade for Physics: "))
 course3 = float(input("Enter your grade for Chemistry: "))
